@@ -1,10 +1,8 @@
 {
-  "Notebook": {
-    "Export to modules": "/export",
-    "Convert to html": "/export2html",
-    "Show doc": "/showdoc",
-    "Test functions": "/test",
-    "Core functions": "/core",
-    "Command line functions": "/cli"
+  "memory_net": {
+    "Overview": "/",
+    "Establish Validity of approach": "/core",
+    "Resnet18 : pretraining with classification": "/resnet18-pretraining",
+    "Resnet34 : pretrain for classification": "/resnet34-preclassify"
   }
 }

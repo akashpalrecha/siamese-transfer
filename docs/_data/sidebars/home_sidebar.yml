@@ -7,24 +7,18 @@ entries:
 - folders:
   - folderitems:
     - output: web,pdf
-      title: Export to modules
-      url: /export.html
+      title: Overview
+      url: /
     - output: web,pdf
-      title: Convert to html
-      url: /export2html.html
+      title: Establish Validity of approach
+      url: /core
     - output: web,pdf
-      title: Show doc
-      url: /showdoc.html
+      title: 'Resnet18 : pretraining with classification'
+      url: /resnet18-pretraining
     - output: web,pdf
-      title: Test functions
-      url: /test.html
-    - output: web,pdf
-      title: Core functions
-      url: /core.html
-    - output: web,pdf
-      title: Command line functions
-      url: /cli.html
+      title: 'Resnet34 : pretrain for classification'
+      url: /resnet34-preclassify
     output: web
-    title: Notebook
+    title: memory_net
   output: web
   title: Sidebar
