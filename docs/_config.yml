@@ -1,9 +1,9 @@
-repository: akashpalrecha/memory_net
+repository: akashpalrecha/siamese-transfer
 output: web
-topnav_title: memory_net
-site_title: memory_net
+topnav_title: siamese-transfer
+site_title: siamese-transfer
 company_name: Akash Palrecha, Atmadeep Banerjee
-description: A personal research attempt to give a neural network some explicit memory
+description: A personal research attempt at making transfer learning work for Siamese Networks
 # Set to false to disable KaTeX math
 use_math: true
 # Add Google analytics id if you have one and want to use it here
@@ -61,4 +61,4 @@ sidebars:
 permalink: pretty
 
 theme: jekyll-theme-cayman
-baseurl: /memory_net/
+baseurl: /siamese-transfer/
